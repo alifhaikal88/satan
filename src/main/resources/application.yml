@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: satan
+netty:
+  default:
+    allocator:
+      max-order: 3
